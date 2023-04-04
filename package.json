@@ -1,5 +1,5 @@
 {
-  "name": "@sunsama/ts-node-dev",
+  "name": "@trykeep/ts-node-dev",
   "version": "2.0.1",
   "description": "Compiles your TS app and restarts when files are modified.",
   "keywords": [
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/sunsama/ts-node-dev.git"
+    "url": "http://github.com/trykeep/ts-node-dev.git"
   },
   "license": "MIT",
   "bin": {
@@ -96,6 +96,6 @@
     "cleanup": false
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+    "registry": "https://npm.trykeep.com"
   }
 }
